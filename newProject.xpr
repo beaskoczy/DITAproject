@@ -425,10 +425,10 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/out/webhelp-responsive</String>
+                                    <String>C:\Users\beata\Documents\GitHub\DITAproject</String>
                                 </field>
                                 <field name="tempDir">
-                                    <String>${cfd}/temp/webhelp-responsive</String>
+                                    <String>C:\Users\beata\Documents\GitHub\DITAproject-temp</String>
                                 </field>
                                 <field name="transtype">
                                     <String>webhelp-responsive</String>
