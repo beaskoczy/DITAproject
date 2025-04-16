@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_new_task_1">
+    <title>Setting up a new laptop</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq id="prereq_wm4_mz2_x2c">
+            <ol id="ol_hcs_nz2_x2c">
+                <li>Purchase a laptop.</li>
+            </ol>
+        </prereq>
+        <context>
+            <p>Jak się dobrze bawić</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Baw się dobrze</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

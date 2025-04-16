@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/beata/Documents/GitHub/DITAproject/Untitled1.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">My doc</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">My doc</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="test_concept"><resourceid appid="test_concept" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Filters</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_creating_my_first_task"><resourceid appid="t_creating_my_first_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Restart your machine</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_new_concept"><resourceid appid="c_new_concept" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">c_new concept</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_new_task_1"><resourceid appid="t_new_task_1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">t_new task 1</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+    
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="test_concept" oid="test_concept" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Filters</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Use filters to limit the number of displayed elements.</p>
+        <p class="- topic/p ">Some text.</p>
+        <p class="- topic/p "/>
+        <ul class="- topic/ul " id="unique_1_Connect_42_ul_rg4_kpr_p2c" nd:nd-id="ul_rg4_kpr_p2c"><li class="- topic/li ">ala</li><li class="- topic/li ">basia</li><li class="- topic/li ">
+                <ol class="- topic/ol " id="unique_1_Connect_42_ol_jy5_xqr_p2c" nd:nd-id="ol_jy5_xqr_p2c"><li class="- topic/li ">elo</li></ol>
+            </li></ul>
+        <image class="- topic/image " dita-ot:image-width="679" dita-ot:image-height="278" href="file:/C:/Users/beata/Documents/GitHub/DITAproject/71ys9X6UmrL._AC_SX679_.jpg" id="unique_1_Connect_42_image_csq_jgs_p2c" nd:nd-id="image_csq_jgs_p2c" placement="inline"/>
+        <fig class="- topic/fig " id="unique_1_Connect_42_fig_uqs_shs_p2c" nd:nd-id="fig_uqs_shs_p2c"><p class="- topic/p ">
+                <fig class="- topic/fig " id="unique_1_Connect_42_fig_vm1_5hs_p2c" nd:nd-id="fig_vm1_5hs_p2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Steam Deck</ph></title><note class="- topic/note " id="unique_1_Connect_42_note_yck_h3s_p2c" nd:nd-id="note_yck_h3s_p2c" type="warning">Addiction imminent.</note><image class="- topic/image " dita-ot:image-width="679" dita-ot:image-height="278" href="file:/C:/Users/beata/Documents/GitHub/DITAproject/71ys9X6UmrL._AC_SX679_.jpg" id="unique_1_Connect_42_image_wm1_5hs_p2c" nd:nd-id="image_wm1_5hs_p2c" placement="inline">
+                        <alt class="- topic/alt ">Gaming handheld device</alt>
+                    </image></fig>
+            </p></fig>
+        <dl class="- topic/dl " id="unique_1_Connect_42_dl_imh_5qr_p2c" nd:nd-id="dl_imh_5qr_p2c">
+            <dlentry class="- topic/dlentry ">
+                <dt class="- topic/dt ">Filter</dt>
+                <dd class="- topic/dd ">Functionality to reduce the number of displayed elements.</dd>
+            </dlentry>
+        </dl>
+        <dl class="- topic/dl " id="unique_1_Connect_42_dl_sgk_vqr_p2c" nd:nd-id="dl_sgk_vqr_p2c">
+            <dlentry class="- topic/dlentry ">
+                <dt class="- topic/dt "/>
+                <dd class="- topic/dd "/>
+            </dlentry>
+        </dl>
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="t_creating_my_first_task" oid="t_creating_my_first_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Restart your machine</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Ala ma kota</p>
+        </context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Check if keyboard is present.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In <wintitle class="+ topic/keyword ui-d/wintitle ">Oxygen</wintitle> select <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;15:73" xtrf="file:/C:/Users/beata/Documents/GitHub/DITAproject/topics/t_restart-your-machine.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Main Menu</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Options</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Preferences</uicontrol></menucascade>.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><codeph class="+ topic/ph pr-d/codeph ">git pull</codeph></cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the <uicontrol class="+ topic/ph ui-d/uicontrol ">Name</uicontrol> field, write
+                    <userinput class="+ topic/ph sw-d/userinput ">John</userinput>.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Check if keyboard is present.</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_2_Connect_42_substeps_vmx_fzr_p2c" nd:nd-id="substeps_vmx_fzr_p2c"><substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Look around for your keyboard.</cmd>
+                    </substep></substeps>
+                <choices class="- topic/ul task/choices " id="unique_2_Connect_42_choices_yq3_nzr_p2c" nd:nd-id="choices_yq3_nzr_p2c"><choice class="- topic/li task/choice "/></choices>
+                <substeps class="- topic/ol task/substeps " id="unique_2_Connect_42_substeps_hct_tzr_p2c" nd:nd-id="substeps_hct_tzr_p2c"><substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Ask a friend.</cmd>
+                    </substep></substeps>
+            </step></steps>
+        <example class="- topic/example " id="unique_2_Connect_42_example_hpd_c1s_p2c" nd:nd-id="example_hpd_c1s_p2c"/>
+        <postreq class="- topic/section task/postreq " id="unique_2_Connect_42_postreq_ltm_c1s_p2c" nd:nd-id="postreq_ltm_c1s_p2c"/>
+    </taskbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_3" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>t_new task 1</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="c_new_concept" oid="c_new_concept" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">c_new concept</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="t_new_task_1" oid="t_new_task_1" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">t_new task 1</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Jak się dobrze bawić</p>
+        </context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Baw się dobrze</cmd>
+            </step></steps>
+    </taskbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="task"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Restart your machine</linktext><?ditaot genshortdesc?><desc class="- topic/desc "/></link></linkpool></related-links></task></map>

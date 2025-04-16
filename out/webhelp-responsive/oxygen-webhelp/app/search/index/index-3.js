@@ -1,0 +1,2 @@
+// Auto generated index for searching.
+var index3 = {"present":"5*20*-1$-1$b$q","pull":"5*10*-1$j","purchase":"3*10*-1$8","reduce":"1*10*-1$l","related":"3*5*h,4*5*8,5*5*11","restart":"3*0*j,5*30*0$3","select":"5*10*-1$d","sensitive":"0*20*1","setting":"3*30*0$4,5*0*13","się":"3*20*-1$-1$b$f","some":"1*10*-1$8","steam":"1*10*-1$e","task":"4*30*0$1","text":"1*10*-1$9","up":"3*30*1$5,5*0*14","use":"1*10*-1$2","warning":"1*10*-1$g","write":"5*10*-1$m","your":"3*0*k,5*40*-1$1$4$t","zrobić":"4*10*-1$4","zrób":"4*10*-1$6"};

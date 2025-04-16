@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>My doc</title>
+    <topicgroup>
+        <topicref href="topics/c_filters.dita"/>
+        <topicref href="topics/t_restart-your-machine.dita"/>
+        <topicref href="topics/c_new_concept.dita"/>
+    </topicgroup>
+    <reltable>
+        <title>Related links</title>
+        <relheader>
+            <relcolspec/>
+            <relcolspec/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="topics/t_new_task_1.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_restart-your-machine.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/t_new_task_2.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/c_filters.dita" linking="targetonly"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>

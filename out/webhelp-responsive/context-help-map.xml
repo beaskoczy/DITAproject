@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="test_concept" path="topics/c_filters.html"/>
+   <appContext helpID="t_creating_my_first_task"
+               path="topics/t_restart-your-machine.html"/>
+   <appContext helpID="c_new_concept" path="topics/c_new_concept.html"/>
+   <appContext helpID="t_new_task_1" path="topics/t_new_task_1.html"/>
+   <appContext helpID="t_creating_my_first_task"
+               path="topics/t_restart-your-machine.html"/>
+   <appContext helpID="t_new_task_2" path="topics/t_new_task_2.html"/>
+   <appContext helpID="test_concept" path="topics/c_filters.html"/>
+</map>

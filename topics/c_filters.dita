@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="test_concept">
+    <title>Filters</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Use filters to limit the number of displayed elements.</p>
+        <p>Some text.</p>
+        <p/>
+        <ul id="ul_rg4_kpr_p2c">
+            <li>ala</li>
+            <li>basia</li>
+            <li>
+                <ol id="ol_jy5_xqr_p2c">
+                    <li>elo</li>
+                </ol>
+            </li>
+        </ul>
+        <image href="../71ys9X6UmrL._AC_SX679_.jpg" id="image_csq_jgs_p2c"/>
+        <fig id="fig_uqs_shs_p2c">
+            <p>
+                <fig id="fig_vm1_5hs_p2c">
+                    <title>Steam Deck</title>
+                    <note id="note_yck_h3s_p2c" type="warning">Addiction imminent.</note>
+                    <image href="../71ys9X6UmrL._AC_SX679_.jpg" id="image_wm1_5hs_p2c">
+                        <alt>Gaming handheld device</alt>
+                    </image>
+                </fig>
+            </p>
+        </fig>
+        <dl id="dl_imh_5qr_p2c">
+            <dlentry>
+                <dt>Filter</dt>
+                <dd>Functionality to reduce the number of displayed elements.</dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_sgk_vqr_p2c">
+            <dlentry>
+                <dt/>
+                <dd/>
+            </dlentry>
+        </dl>
+    </conbody>
+</concept>

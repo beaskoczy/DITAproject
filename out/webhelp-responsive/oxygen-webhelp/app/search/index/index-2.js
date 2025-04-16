@@ -1,0 +1,2 @@
+// Auto generated index for searching.
+var index2 = {"functionality":"1*10*-1$k","git":"5*10*-1$i","help":"0*20*2","imminent":"1*10*-1$i","information":"3*5*i,4*5*9,5*5*12","jak":"3*10*-1$a,4*10*-1$2","john":"5*10*-1$n","keyboard":"5*30*-1$-1$-1$a$p$u","kota":"5*10*-1$8","laptop":"3*40*-1$3$7$9,5*0*16","limit":"1*10*-1$4","look":"5*10*-1$r","ma":"5*10*-1$7","machine":"3*0*l,5*30*2$5","main":"5*10*-1$e","menu":"5*10*-1$f","name":"5*10*-1$k","new":"2*30*1$4,3*30*2$6,5*0*15","number":"1*20*-1$-1$5$m","options":"5*10*-1$g","oxygen":"5*10*-1$c","preferences":"5*10*-1$h"};

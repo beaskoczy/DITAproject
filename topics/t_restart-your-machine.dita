@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_creating_my_first_task">
+    <title>Restart your machine</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p id="alakota">Ala ma kota</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Check if keyboard is present.</cmd>
+            </step>
+            <step>
+                <cmd>In <wintitle>Oxygen</wintitle> select <menucascade>
+                        <uicontrol>Main Menu</uicontrol>
+                        <uicontrol>Options</uicontrol>
+                        <uicontrol>Preferences</uicontrol>
+                    </menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd><codeph>git pull</codeph></cmd>
+            </step>
+            <step>
+                <cmd>In the <uicontrol>Name</uicontrol> field, write
+                    <userinput>John</userinput>.</cmd>
+            </step>
+            <step>
+                <cmd>Check if keyboard is present.</cmd>
+                <substeps id="substeps_vmx_fzr_p2c">
+                    <substep>
+                        <cmd>Look around for your keyboard.</cmd>
+                    </substep>
+                </substeps>
+                <choices id="choices_yq3_nzr_p2c">
+                    <choice/>
+                </choices>
+                <substeps id="substeps_hct_tzr_p2c">
+                    <substep>
+                        <cmd>Ask a friend.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <example id="example_hpd_c1s_p2c"/>
+        <postreq id="postreq_ltm_c1s_p2c"/>
+    </taskbody>
+</task>

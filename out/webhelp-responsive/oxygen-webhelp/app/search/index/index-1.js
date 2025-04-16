@@ -1,0 +1,2 @@
+// Auto generated index for searching.
+var index1 = {"addiction":"1*10*-1$h","ala":"1*10*-1$a,5*10*-1$6","around":"5*10*-1$s","ask":"5*10*-1$v","basia":"1*10*-1$b","baw":"3*10*-1$e","bawić":"3*10*-1$d","c_new":"2*30*0$3","check":"5*20*-1$-1$9$o","concept":"2*30*2$5","context":"0*20*0","coś":"4*10*-1$3","deck":"1*10*-1$f","displayed":"1*20*-1$-1$6$n","dobrze":"3*20*-1$-1$c$g,4*20*-1$-1$5$7","elements":"1*20*-1$-1$7$o","elo":"1*10*-1$c","field":"5*10*-1$l","figure":"1*10*-1$d","filter":"1*10*-1$j","filters":"1*40*-1$0$1$3,4*0*a","friend":"5*0*10"};
