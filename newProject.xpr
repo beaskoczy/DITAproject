@@ -14,22 +14,16 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>Untitled1 (PDF (CSS Formatter - HTML5))</String>
                                         <String>Untitled1 (WebHelp Responsive)</String>
-                                        <String>Untitled1 (PDF2)</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
